@@ -1,7 +1,7 @@
 {
   "@renku_data_type": "renku.domain_model.project.Project",
   "@renku_oid": "project",
-  "agent_version": "2.6.2",
+  "agent_version": "2.9.1",
   "annotations": [],
   "creator": {
     "@renku_data_type": "renku.domain_model.provenance.agent.Person",
@@ -20,18 +20,18 @@
   "description": null,
   "id": "/projects/jean-paul.calbimonte/data-valorisation",
   "keywords": [],
-  "minimum_renku_version": "2.4.0",
+  "minimum_renku_version": "2.8.0",
   "name": "data-valorisation",
   "template_metadata": {
     "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
     "@renku_data_value": {
       "immutable_template_files": [],
-      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.1.16\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"jean-paul.calbimonte\", \"__automated_update__\": true, \"__repository__\": \"https://renkulab.io/gitlab\", \"__sanitized_project_name__\": \"data-valorisation\", \"__project_slug__\": \"jean-paul.calbimonte/data-valorisation\", \"description\": \"\", \"name\": \"data-valorisation\"}",
-      "ssh_supported": false,
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.7.2\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"jean-paul.calbimonte\", \"__automated_update__\": true, \"__repository__\": \"https://renkulab.io/gitlab\", \"__sanitized_project_name__\": \"data-valorisation\", \"__project_slug__\": \"jean-paul.calbimonte/data-valorisation\", \"description\": \"\", \"name\": \"data-valorisation\", \"__template_version__\": \"ee4cf00c52c6cd45363a40b55540343e9ecf70af\", \"__renku_version__\": \"2.6.2\"}",
+      "ssh_supported": true,
       "template_id": "python-minimal",
-      "template_ref": "0.1.16",
+      "template_ref": "0.7.2",
       "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
-      "template_version": "11c74ad062891b24b5873d3036eff032eebc973a"
+      "template_version": "ee4cf00c52c6cd45363a40b55540343e9ecf70af"
     }
   },
   "version": "10"
